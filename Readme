@@ -1,0 +1,1 @@
+Using an External interrupt event the ESP32 can be woken from sleep using a simple push-button or actuating pulse.
